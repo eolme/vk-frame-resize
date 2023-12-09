@@ -1,6 +1,6 @@
 {
   "name": "vk-frame-resize",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "main": "./lib/index.js",
   "module": "./lib/index.mjs",
   "types": "./lib/index.d.ts",
@@ -23,7 +23,7 @@
     "email": "im@petrov.engineer",
     "url": "https://petrov.engineer"
   },
-  "description": "Observe content size with automatic frame resize to prevent internal scroll",
+  "description": "Different methods of automatic vk frame resizing",
   "license": "MIT",
   "keywords": [
     "vk",
@@ -43,10 +43,10 @@
   },
   "devDependencies": {
     "@mntm/eslint-config": "^1.4.0",
-    "@types/node": "^20.10.1",
-    "eslint": "^8.54.0",
-    "typescript": "^5.3.2",
-    "vite": "^5.0.4",
+    "@types/node": "^20.10.4",
+    "eslint": "^8.55.0",
+    "typescript": "^5.3.3",
+    "vite": "^5.0.7",
     "vite-plugin-dts": "^3.6.4"
   },
   "resolutions": {

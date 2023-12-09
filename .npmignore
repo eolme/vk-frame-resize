@@ -6,6 +6,7 @@ vite.config.ts
 .eslintignore
 .eslintrc
 yarn.lock
+.yarnrc.yml
 .yarn/
 node_modules/
 src/
